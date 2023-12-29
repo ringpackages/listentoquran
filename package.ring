@@ -1,7 +1,7 @@
 aPackageInfo = [
 	:name = "The Quran ring Applicaion",
 	:description = "Listen to Quran with Ring programming language",
-	:folder = "quran_ring",
+	:folder = "listentoquran",
 	:developer = "Mohannad Alayash",
 	:email = "mohannadazazalayash@gmail.com",
 	:license = "MIT License",
@@ -31,7 +31,6 @@ aPackageInfo = [
 		]
 	],
 	:files = 	[
-		"lib.ring",
 		"main.ring",
 		"all_Souars.json",
 		"Quran_Logo.ico",
