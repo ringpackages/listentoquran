@@ -5,11 +5,11 @@ aPackageInfo = [
 	:developer = "Mohannad Alayash",
 	:email = "mohannadazazalayash@gmail.com",
 	:license = "MIT License",
-	:version = "1.0.0",
-	:ringversion = "1.18",
+	:version = "1.0.1",
+	:ringversion = "1.19",
 	:versions = 	[
 		[
-			:version = "1.0.0",
+			:version = "1.0.1",
 			:branch = "main"
 		]
 	],
@@ -25,9 +25,14 @@ aPackageInfo = [
 			:providerusername = "ringpackages"
 		],
 		[
-			:name = "guilib",
-			:version = "1.0.21",
-			:providerusername = "ringpackages"
+			:name = "ringqt",
+			:version = "1.0",
+			:providerusername = ""
+		],
+		[
+			:name = "winlib",
+			:version = "1.0",
+			:providerusername = ""
 		]
 	],
 	:files = 	[
