@@ -5,11 +5,11 @@ aPackageInfo = [
 	:developer = "Mohannad Alayash",
 	:email = "mohannadazazalayash@gmail.com",
 	:license = "MIT License",
-	:version = "1.0.1",
+	:version = "1.0.2",
 	:ringversion = "1.19",
 	:versions = 	[
 		[
-			:version = "1.0.1",
+			:version = "1.0.2",
 			:branch = "main"
 		]
 	],
@@ -30,7 +30,7 @@ aPackageInfo = [
 			:providerusername = ""
 		],
 		[
-			:name = "winlib",
+			:name = "ringwinlib",
 			:version = "1.0",
 			:providerusername = ""
 		]
